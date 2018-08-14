@@ -1,6 +1,6 @@
 
 /**
- * Genome function is a function that descending sort an array by swaping 
+ * Genome function is a function that assending sort an array by swaping 
  * the array elements.
  * 
  * example:
